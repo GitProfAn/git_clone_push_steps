@@ -3,3 +3,4 @@
 3. VS Code a.py
 4. Git status
 5. Git diff
+6. Git add a.py
