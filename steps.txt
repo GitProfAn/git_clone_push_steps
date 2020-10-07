@@ -1,7 +1,8 @@
-1. Git clone
+1. git clone
 2. cd repo
 3. VS Code a.py
-4. Git status
-5. Git diff
-6. Git add a.py
-7. Git commit -m "message"
+4. git status
+5. git diff
+6. git add a.py
+7. git commit -m "message"
+8. git push
